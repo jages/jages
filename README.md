@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about JS.
+- ⚡ Check out my CP/Kata Stuff in [this repository](https://github.com/jages/KataCollection).
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jages&layout=compact&hide=html,dockerfile" alt="jages" /></p>
 <!--
 **jages/jages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
