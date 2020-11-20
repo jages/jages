@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning about JS.
-- ⚡ Check out my CP/Kata Stuff in [this repository](https://github.com/jages/KataCollection).
+- 📐 Currently investigating rasterisation graphics
+- 📫 get in touch on [twitter](https://twitter.com/ja_ges).
+<!-- ⚡ Check out my CP/Kata Stuff in [this repository](https://github.com/jages/KataCollection). -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jages&layout=compact&hide=html,dockerfile" alt="jages" /></p>
 <!--
