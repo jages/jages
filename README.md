@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about JS.
-- 📐 Currently investigating rasterisation graphics
+- 🌱 Learning about the web
+- 👓 Rediscovering C++ with openGL
+- 📐 Fascinated by Computer Graphics
 - 📫 get in touch on [twitter](https://twitter.com/ja_ges).
 <!-- ⚡ Check out my CP/Kata Stuff in [this repository](https://github.com/jages/KataCollection). -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jages&layout=compact&hide=html,dockerfile" alt="jages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jages&layout=compact&theme=react&hide=html,dockerfile" alt="jages" /></p>
 <!--
 **jages/jages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
